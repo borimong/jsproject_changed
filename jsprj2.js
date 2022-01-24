@@ -1,4 +1,4 @@
-let arr = ["I love you","I hate you","I don't have any idea with you"];
+let arr = ["I love you","I hate you","I'm not interested in you"];
 
 console.log(arr[Math.floor(Math.random()*3)]);
 
